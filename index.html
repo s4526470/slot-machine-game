@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Slot Machine Game</title>
+  <link rel="stylesheet" media="screen" href="src/css/style.css">
+</head>
+<body>
+  <div id="particles-js"></div> <!-- 背景粒子 -->
+
+  <div id="overlay">
+    <h1 id="title">Cyber Slot Machine</h1>
+    <!-- <button id="start-btn">Start Game</button> -->
+<button class="animated-button" id="start-btn">
+  <svg viewBox="0 0 24 24" class="arr-2" xmlns="http://www.w3.org/2000/svg">
+    <path
+      d="M16.1716 10.9999L10.8076 5.63589L12.2218 4.22168L20 11.9999L12.2218 19.778L10.8076 18.3638L16.1716 12.9999H4V10.9999H16.1716Z"
+    ></path>
+  </svg>
+  <span class="text">Start Game</span>
+  <span class="circle"></span>
+  <svg viewBox="0 0 24 24" class="arr-1" xmlns="http://www.w3.org/2000/svg">
+    <path
+      d="M16.1716 10.9999L10.8076 5.63589L12.2218 4.22168L20 11.9999L12.2218 19.778L10.8076 18.3638L16.1716 12.9999H4V10.9999H16.1716Z"
+    ></path>
+  </svg>
+</button>
+
+  </div>
+
+  <div id="game" style="display: none;"></div> <!-- 游戏容器 -->
+  <script type="module" src="/src/main.js"></script>
+  <script src="src/js/particles.js"></script>
+  <script src="src/js/app.js"></script>
+</body>
+</html>
