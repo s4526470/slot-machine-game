@@ -210,8 +210,6 @@ export default class GameScene extends Phaser.Scene {
     const mask = maskShape.createGeometryMask();
     this.reels.forEach(reel => reel.container.setMask(mask));
 
-    this.add.line(centerX, 0, 0, 0, 0, height, 0xff0000).setOrigin(0.5, 0);
-
     this.updateSpinButtonState();
   }
 
