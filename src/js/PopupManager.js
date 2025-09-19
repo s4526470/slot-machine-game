@@ -15,52 +15,52 @@ export default class PopupManager {
             <button class="uiverse-close-btn">X</button>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol1.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol1.png" alt=""></div>
             <div class="category"> JET </div>
             <div class="heading">5.&nbsp13740<br>4.&nbsp4580&nbsp<br>3.&nbsp1830&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol2.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol2.png" alt=""></div>
             <div class="category"> SPEEDER </div>
             <div class="heading">5.&nbsp9160<br>4.&nbsp3660<br>3.&nbsp1370<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol3.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol3.png" alt=""></div>
             <div class="category"> MOTORCYCLE </div>
             <div class="heading">5.&nbsp7330<br>4.&nbsp2290<br>3.&nbsp920&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol4.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol4.png" alt=""></div>
             <div class="category"> SECURITY </div>
             <div class="heading">5.&nbsp4570<br>4.&nbsp1830<br>3.&nbsp730&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol5.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol5.png" alt=""></div>
             <div class="category"> DEVICE </div>
             <div class="heading">5.&nbsp2740<br>4.&nbsp1100<br>3.&nbsp460&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol6.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol6.png" alt=""></div>
             <div class="category"> GLASS </div>
             <div class="heading">5.&nbsp1830<br>4.&nbsp730&nbsp<br>3.&nbsp270&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol7.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol7.png" alt=""></div>
             <div class="category"> BITCOIN </div>
             <div class="heading">5.&nbsp1370<br>4.&nbsp460&nbsp<br>3.&nbsp180&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol8.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol8.png" alt=""></div>
             <div class="category"> BITCOIN </div>
             <div class="heading">5.&nbsp1370<br>4.&nbsp460&nbsp<br>3.&nbsp180&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol9.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol9.png" alt=""></div>
             <div class="category"> BITCOIN </div>
             <div class="heading">5.&nbsp1370<br>4.&nbsp460&nbsp<br>3.&nbsp180&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
           <div class="card">
-            <div class="card-image"><img src="../../public/assets/symbols/transparent-symbol/symbol10.png" alt=""></div>
+            <div class="card-image"><img src="/assets/symbols/transparent-symbol/symbol10.png" alt=""></div>
             <div class="category"> BITCOIN </div>
             <div class="heading">5.&nbsp1370<br>4.&nbsp460&nbsp<br>3.&nbsp180&nbsp<br>2.&nbsp&nbsp&nbsp&nbsp&nbsp</div>
           </div>
