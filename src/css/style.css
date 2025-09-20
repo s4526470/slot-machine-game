@@ -1,8 +1,15 @@
-@font-face {
+/* @font-face {
     font-family: cyberpunk;
-    /* src: url('/fonts/Audiowide/Audiowide-Regular.ttf') format('truetype'); */
+    src: url('/fonts/Audiowide/Audiowide-Regular.ttf') format('truetype');
     src: url('Audiowide-Regular.ttf') format('truetype');
+} */
+
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
+
 
 html, body {
     margin: 0;
