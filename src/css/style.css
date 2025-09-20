@@ -1,6 +1,7 @@
 @font-face {
     font-family: cyberpunk;
-    src: url('/fonts/Audiowide/Audiowide-Regular.ttf') format('truetype');
+    /* src: url('/fonts/Audiowide/Audiowide-Regular.ttf') format('truetype'); */
+    src: url('Audiowide-Regular.ttf') format('truetype');
 }
 
 html, body {
