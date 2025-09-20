@@ -32,7 +32,7 @@ export default class {
         style.textContent = `
 .paytable-button {
   color: #ecf0f1;
-  font-family: cyberpunk;
+  font-family: Audiowide;
   font-size: 2em;
   background-color: #e67e22;
   border: 1px solid #f39c12;

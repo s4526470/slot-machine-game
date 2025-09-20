@@ -60,7 +60,7 @@ export default class SpinButton3D {
   padding: 35px 16px;
   transform: translateY(0);
   text-align: center;
-  font-family: cyberpunk;
+  font-family: Audiowide;
   font-size: 3em;
   color: #fff;
   text-shadow: 0 -1px rgba(0, 0, 0, .25);
