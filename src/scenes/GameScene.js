@@ -81,6 +81,11 @@ export default class GameScene extends Phaser.Scene {
   }
 
   preload() {
+    this.load.on('complete', () => {
+    document.getElementById('loading').style.display = 'none';
+    // document.getElementById('game').style.display = 'block';
+    });
+
     this.load.image('machineFrame', '/assets/reel-frame/cyber080303.png');
     this.load.image('paytable', '/assets/reel-frame/machine-frame4.png');
     for (let i = 1; i <= 10; i++) {
@@ -89,6 +94,7 @@ export default class GameScene extends Phaser.Scene {
   }
 
   create() {
+
     const { centerX, centerY, height } = this.cameras.main;
 
     // 🎯 背景框

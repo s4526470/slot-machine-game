@@ -3,6 +3,7 @@ import GameScene from './scenes/GameScene.js';
 
 document.getElementById('start-btn').addEventListener('click', () => {
   document.getElementById('overlay').style.display = 'none';
+  document.getElementById('loading').style.display = 'flex'; // ✅ 显示 spinner
   document.getElementById('game').style.display = 'block';
 
   const config = {
