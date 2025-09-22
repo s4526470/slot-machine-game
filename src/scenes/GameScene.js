@@ -83,7 +83,6 @@ export default class GameScene extends Phaser.Scene {
   preload() {
     this.load.on('complete', () => {
     document.getElementById('loading').style.display = 'none';
-    // document.getElementById('game').style.display = 'block';
     });
 
     this.load.image('machineFrame', '/assets/reel-frame/cyber080303.png');
